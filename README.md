@@ -1,2 +1,0 @@
-# Codam
-School projects

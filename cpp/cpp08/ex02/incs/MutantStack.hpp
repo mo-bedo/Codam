@@ -1,0 +1,5 @@
+#ifndef MUTANTSTACK_HHP
+# define MUTANTSTACK_HHP
+
+
+#endif //		MUTANTSTACK_HHP
