@@ -30,13 +30,6 @@ Codam is part of the world wide [42 network] (https://42.fr/en/network-42/)
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="30px" height="30px"/></td>
 		</tr>
 		<tr>
-			<td><img src="img/rank5.png" alt="5" width="30" height="30"/></td>
-			<td><a href=exam_rank_05/>exam_rank_05</a></td>
-			<td>In three hours time we have to complete two assignments (without an internet connection).</td>
-			<td><img src="img/small100.png" alt="100%" width="92px" height="30px"/></td>
-			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="30px" height="30px"/></td>
-		</tr>
-		<tr>
 			<td><a href=cpp>c++ modules</a></td>
 			<td>The C++ modules is designed to help understand the specifities of the language when compared to C and object-oriented programming.</td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="30px" height="30px"/></td>
@@ -59,13 +52,6 @@ Codam is part of the world wide [42 network] (https://42.fr/en/network-42/)
 		<tr>
 			<td><a href=minishell>minishell</a></td>
 			<td>The objective of this project is to create a simple shell</td>
-			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="30px" height="30px"/></td>
-		</tr>
-		<tr>
-			<td><img src="img/rank3.png" alt="3" width="30" height="30"/></td>
-			<td><a href=exam_rank_03>exam_rank_03</a></td>
-			<td>In two hours time we have to complete two assignments (without an internet connection). The first one is <a href=exam_rank_03/ft_split.c>ft_split</a> and the second one is a <a href=exam_rank_03/sorting_linked_list.c>linked list sorting algorithm</a>.</td>
-			<td><img src="img/small100.png" alt="100%" width="92px" height="30px"/></td>
 			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="30px" height="30px"/></td>
 		</tr>
 		<tr>
