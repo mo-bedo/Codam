@@ -2,7 +2,7 @@
 
 My school projects for [Codam Coding College](https://codam.nl). 
 
-Codam is part of the world wide [42 network] (https://42.fr/en/network-42/)
+Codam is part of the world wide [42 network](https://42.fr/en/network-42/)
 
 
 <table>
