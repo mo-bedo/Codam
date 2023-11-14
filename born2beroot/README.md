@@ -1,13 +1,8 @@
 # Born2beroot
-This project aims to introduce you to the wonderful world of virtualization.
 
-### What is Born2beroot?
-Born2beroot is an individual project at [Codam](https://codam.nl) that requires us to create a virtual machine with [SSH server](https://wikipedia.org/wiki/Secure_Shell), firewall rules and a service like [FTP](https://wikipedia.org/wiki/File_Transfer_Protocol) or [DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-a-dns-server/). The Operating System can be Debian or CentOS and a monitoring script with operating system information should run every 10 minutes.
+Born2beroot is a solo project at [Codam](https://codam.nl) designed to provide an introduction to the realm of virtualization. The task entails creating a virtual machine complete with an [SSH server](https://wikipedia.org/wiki/Secure_Shell), firewall rules, and a designated service such as[FTP](https://wikipedia.org/wiki/File_Transfer_Protocol) or [DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-a-dns-server/). The chosen Operating System can be either Debian or CentOS, and a monitoring script, updating with operating system information, should execute every 10 minutes.
 
-#### Skills
-- Network & system administration
-- Rigor
-
+Skills cultivated during the project include network and system administration, as well as a strong emphasis on rigor and attention to detail.
 
 
 

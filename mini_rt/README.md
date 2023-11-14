@@ -1,40 +1,16 @@
 # MiniRT
-This is the second graphics project at [Codam](codam.nl), our first RayTracer with miniLibX.
+This marks the first team graphics project at Codam, following our initial venture into RayTracer utilizing miniLibX.
 
-We had to create a ray tracer from scratch. The only allowed functions are:
+For this project, the task involved crafting a ray tracer from the ground up, with restrictions limited to specific functions:
+
 - open, close, read, write, printf, malloc, free, perror, strerror, exit
-- all functions of the math library
-- all functions of the MinilibX
+- all functions within the math library
+- all functions within the MiniLibX
 
-
-#### Objectives
-- Applicative
-
-#### Skills
-- Graphics
-- Rigor
-- Imperative programming
-- Algorithms & AI
-
-## Getting started
+## Instructions 
 **Only works in MacOs or Linux. Follow the steps below**
-```bash
 
-# Clone the project and access the folder
-git clone https://github.com/bedauxjc/Codam.git && cd Codam/mini_rt
-
-# Run make so you can build the program
-make
-
-# Run the program with a scene, for example:
-./miniRT scenes/reflective.rt
-
-# Follow the instructions on the terminal
-
-# Clean output objects with
-make fclean
-
-```
+After make run the executable with a scene (from the scenes folder, or create your own) as an argument (e.g. './miniRT scenes/reflective.rt')
 
 #### Some nice stills from our program
 <img src="img/checkers.png" alt="Stills" width="960" height="540">
